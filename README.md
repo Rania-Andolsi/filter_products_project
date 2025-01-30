@@ -24,6 +24,7 @@ Installation & Usage
 1️⃣ Clone or Download the Repository
 
 git clone https://github.com/Rania-Andolsi/filter_products_project.git
+
 cd filter_products
 
 2️⃣ Check the CSV File (Optional but Recommended)
