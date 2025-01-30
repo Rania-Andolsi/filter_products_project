@@ -63,8 +63,11 @@ File Structure
  ├── 📂 data
  
  │   ├── cheap_products.csv
+ 
  │   ├── expensive_products.csv
+ 
  │   ├── sorted_products.csv  # Sorted product list by price
+ 
  
  ├── assignment_02.py  # Contains get_prices function
  
