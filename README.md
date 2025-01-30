@@ -89,13 +89,17 @@ Implementation Details
     Error handling ensures that invalid filenames do not crash the program.
 
 Example Run
-![Product Filtering](images/Filter_product.png)
+
 
 Input:
+
+![Product Filtering](images/Filter_product.PNG)
 
 Enter the file name: IT_products.csv
 
 Output:
+
+![Product Filtering](images/output.PNG)
 
 Filtering complete. Files saved in 'data' folder.
 
