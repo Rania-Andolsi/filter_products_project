@@ -47,6 +47,7 @@ python filter_products.py
 4️⃣ Enter the Filename
 
 When prompted, enter the name of the CSV file (e.g., IT_products.csv).
+
 5️⃣ Check the Output Files
 
 Filtered products will be saved in the data/ folder:
@@ -58,10 +59,13 @@ Filtered products will be saved in the data/ folder:
 File Structure
 
 📂 filter_products_project
+
  ├── 📂 data
+ 
  │   ├── cheap_products.csv
  │   ├── expensive_products.csv
  │   ├── sorted_products.csv  # Sorted product list by price
+ 
  ├── assignment_02.py  # Contains get_prices function
  ├── filter_products.py  # Main script
  ├── IT_products.csv  # Input file
