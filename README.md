@@ -104,6 +104,6 @@ Dependencies
 
 Author
 
-    Rania Andolsi
-    Course: Data Science @ Rome Business School
+    Maria vittoria 
+    Course: CodingLab @ Luiss
     Date: January 2025
