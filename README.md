@@ -67,10 +67,15 @@ File Structure
  │   ├── sorted_products.csv  # Sorted product list by price
  
  ├── assignment_02.py  # Contains get_prices function
+ 
  ├── filter_products.py  # Main script
+ 
  ├── IT_products.csv  # Input file
+ 
  ├── read_and_print.py  # CSV validation script
+ 
  ├── README.md  # Documentation
+ 
 
 Implementation Details
 
