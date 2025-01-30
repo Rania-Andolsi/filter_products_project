@@ -1,5 +1,6 @@
-Since your data/ folder contains an additional file, sorted_products.csv, let's update the README.md to reflect that. I'll include a brief description of its purpose and where it fits in the project.
+
 Filter Products - Assignment 03
+
 Description
 
 This project filters IT product data from a CSV file into two separate files:
@@ -41,6 +42,7 @@ Product: Keyboard, Price: 49.99
 ...
 
 This ensures the file is readable and correctly formatted.
+
 3️⃣ Run the Filtering Script
 
 python filter_products.py
