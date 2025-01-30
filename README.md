@@ -19,6 +19,7 @@ Before running this program, ensure you have:
     get_prices function implemented in assignment_02.py
 
 Installation & Usage
+
 1️⃣ Clone or Download the Repository
 
 git clone https://github.com/your-repo/filter_products.git
